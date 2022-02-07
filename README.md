@@ -1,2 +1,1 @@
-# merge-conflict
-to learn merge conflict i have created it
+Hi I am develpoer 1
